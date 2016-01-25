@@ -25,7 +25,7 @@
 <dependency>
   <groupId>com.cykj</groupId>
   <artifactId>jenkins</artifactId>
-  <version>{env.MVN_VER}</version>
+  <version>${env.MVN_VER}</version>
   <type>war</type>
 </dependency>
 
